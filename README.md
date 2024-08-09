@@ -1,7 +1,25 @@
 # detecting-powerlaw-distributions-in-scientific-citations
 Summer 2024 project supervised by Research Scientist Junming Huang at the Paul and Marcia Wythes Center on Contemporary China, Princeton University
 
-Part of the science of science.
+Part of the Science of Science.
+
+### About
+#### Purpose
+Understand the distribution of citations of papers and journals
+- to understand patterns of citations
+- to learn if certain papers or journals are seen as more valuable than others
+- to explore if time impacts whether and how papers are cited
+Test hypothesis: the number of citations of journals/papers per year follows a power-law distribution and that power-law exponent increases with years
+
+#### Goals
+Explore whether and how the power-law exponent of citations evolve over time.
+- The exponent indicates the shape of the power-law distribution. As the exponent increases, the probability of a few papers having more citations decreases and the probability of many papers having fewer citations increases.
+Count the number of citations to each paper and each journal, and report their distribution by year.
+- Report the distribution of the citation counts of journals/papers in the year they were published and the citation counts of journals/papers in the year they were cited.
+
+#### Methodology
+Data: 225 Years, 204545666 Papers, 78090404 Referenced Papers, and 49067 Journals from Microsoft
+Powerlaw: A python package for analysis of heavy-tailed distributions to determine if a probability distribution fits a power law.
 
 ### Princeton Research Computing
 My main code for the project was through Princeton Research Computing's Adroit cluster. I set up the environment for the Jupyter notebook using my terminal.
