@@ -8,7 +8,8 @@ Part of the Science of Science.
 Understand the distribution of citations of papers and journals
 - to understand patterns of citations
 - to learn if certain papers or journals are seen as more valuable than others
-- to explore if time impacts whether and how papers are cited\
+- to explore if time impacts whether and how papers are cited
+
 Test hypothesis: the number of citations of journals/papers per year follows a power-law distribution and that power-law exponent increases with years
 
 #### Goals
