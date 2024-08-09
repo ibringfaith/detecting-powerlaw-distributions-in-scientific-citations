@@ -1,5 +1,5 @@
 # detecting-powerlaw-distributions-in-scientific-citations
-Summer 2024 project supervised by Research Scientist Junming Huang at the Paul and Marcia Wythes Center on Contemporary China, Princeton University
+Summer 2024 project supervised by Research Scientist Junming Huang at the Paul and Marcia Wythes Center on Contemporary China, Princeton University.
 
 Part of the Science of Science.
 
@@ -52,7 +52,7 @@ Note: My system during this project was Mac OS.
 - scipy: Use linear regression to calculate change in gamma over the years.
 
 #### Jupyter on Adroit
-For Adroit, fill out the online registration form [https://forms.rc.princeton.edu/registration/](url). You will be notified once your account is approved. A sponsor is not needed for Adroit.
+For Adroit, fill out the online registration form [https://forms.rc.princeton.edu/registration/](url). You will be notified once your account is approved. A is not needed for Adroit.
 After receiving the email confirming "Account created on Adroit as requested.":
 1. Head to https://myadroit.princeton.edu/pun/sys/dashboard/
 2. Click on My Interactive Sessions
