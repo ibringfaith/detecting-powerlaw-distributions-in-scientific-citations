@@ -14,6 +14,8 @@ Test hypothesis: the number of citations of journals/papers per year follows a p
 #### Goals
 Explore whether and how the power-law exponent of citations evolve over time.
 - The exponent indicates the shape of the power-law distribution. As the exponent increases, the probability of a few papers having more citations decreases and the probability of many papers having fewer citations increases.\
+
+
 Count the number of citations to each paper and each journal, and report their distribution by year.
 - Report the distribution of the citation counts of journals/papers in the year they were published and the citation counts of journals/papers in the year they were cited.
 
