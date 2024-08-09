@@ -47,7 +47,7 @@ Note: My system during this project was Mac OS.
 ##### Descriptions of packages
 - powerlaw: Graph fit of empirical data pdf to the power law distribution pdf.
 - pandas: Handle provided data.
-- matplotlib: Graph change in gamma. Graph the probability density function of citation frequency over the years using a colormap.
+- matplotlib: Graph change in gamma and number of papers published per year. Graph the probability density function of citation frequency over the years using a colormap.
 - scipy: Use linear regression to calculate change in gamma over the years.
 
 #### Jupyter on Adroit
